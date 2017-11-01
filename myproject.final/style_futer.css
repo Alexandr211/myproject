@@ -1,0 +1,451 @@
+.winter_discount {
+    width: 1140px;
+    height: 530px;
+    
+    margin: 100px auto;
+    
+    
+}
+.winter_leftblock {
+  width: 767px;
+    height: 529px; 
+    display: inline-block;
+    float: left;
+    
+}
+.winter_women {
+   
+    position: absolute;
+   
+}
+.women_discount {
+    width: 300px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+    top: 140px;
+    left: 40px;
+   
+}
+.women_discount h1 {
+    font-family: Lato;
+    color:  #ffffff;
+    font-size: 53.62px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: left;
+     float: left;
+}
+.women_discount h2 {
+    font-family: Lato;
+    color:  #f16d7f;
+    font-size: 53.62px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: left;
+}
+.women_discount h3 {
+     font-family: Lato;
+    color:  #ffffff;
+    font-size: 32.17px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: left; 
+    
+}
+.conditions {
+    width: 360px;
+height: 529px;
+    background-color:  #222224;
+    display: inline-block;
+    position: absolute;
+   
+}
+.delivery {
+    width: 300px;
+    height: 100px;
+    position: relative;
+    top: 50px;
+    left: 30px;
+    
+    
+}
+.truck {
+color:  #f16d7f;    
+width: 45px;
+height: 32px;
+    float: left;
+  }
+
+.del_text {
+    width: 220px;
+    height: 80px;
+    margin-left: 80px;
+    position: absolute;
+}
+.del_text h1 {
+    font-family: Lato;
+    color:  #fbfbfb;
+    font-size: 20px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: left;
+}
+.del_text p {
+    font-family: Lato;
+    color:  #fbfbfb;
+    font-size: 14px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 300;
+    text-align: left;
+    position: relative;
+    top: 10px;
+}
+
+.sales {
+  position: relative;
+    top: 100px;
+    left: 30px;  
+}
+
+.quality {
+  position: absolute;
+    top: 350px;
+    left: 30px;  
+}
+    
+.feedback {
+    width: 1600px;
+    height: 440px;
+    margin: 0 auto;
+    /*background-image: url(img/sea.png);*/
+        
+    }
+
+.feed_text {
+    width: 800px;
+    height: 440px;
+    border-right-width: 1px;
+    border-right-color: lightgrey;
+    border-right-style: solid;
+    position: absolute;
+    
+     
+}
+.feedback_foto {
+    width: 83px;
+    height: 83px;
+   display: inline-block;
+   left: 230px;
+    top: 111px;
+    float: left;
+    position: relative;
+    }
+.f_text {
+    width: 386px;
+    height: 100px;
+    margin-left: 100px;
+    position: relative;
+    left: 230px;
+    top: 111px;
+    
+}
+.f_text p {
+    font-family: Lato;
+    color:  rgba(34, 34, 36, 0.67);
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-style: italic;
+    text-align: left;
+    position: relative;
+    top: 10px;
+}
+.f_text h1 {
+    font-family: Lato;
+    color:  #f16d7f;
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: left;
+     position: relative;
+     top: 20px;
+}
+.f_text h2 {
+    font-family: Lato;
+    color:  #222224;
+    font-size: 12px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 300;
+    text-align: left;
+    position: relative;
+    top: 20px;
+}
+.subscribe {
+   width: 800px;
+    height: 440px; 
+   display: inline-block;
+    position: relative;
+    left: 800px;
+    top: -440px;
+      
+}
+.sub_text {
+    width: 277px;
+    height: 41px;
+    position: absolute;
+    top: 148px;
+    left: 146px;
+    
+}
+.sub_text h1 {
+    font-family: Lato;
+    color:  rgba(34, 34, 36, 0.67);
+    font-size: 24px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    text-align: center;
+}
+.sub_text h2 {
+    font-family: Lato;
+    color:  rgba(34, 34, 36, 0.67);
+    font-size: 14px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+    top: 5px;
+
+}
+.sub_search {
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;    
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e6e6e6;
+    box-sizing: border-box;
+    background-color: #e1e1e1;
+    width: 283px;
+    height: 46px;
+    font-family: Lato;
+    color:  rgba(34, 34, 36, 0.67);
+    font-size: 14px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 0px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+    padding-left: 20px;
+}
+.sub_submit {
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #A9A9A9;
+    box-sizing: border-box;
+    background-color: #e1e1e1;
+    width: 104px;
+    height: 46px;  
+    margin-left: -5px;
+    font-family: Lato;
+    color:  black;
+    font-size: 14px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 0px;/* Приближение из-за подстановки шрифтов */
+    text-align: center;  
+    transition: .6s ease-in-out;
+   
+}
+
+.sub_searcher {
+    position: absolute;
+    top: 224px;
+    left: 92px;
+}
+.sub_submit:hover {
+    background-color: #f16d7f;
+    color: aliceblue;
+}
+
+.footer1 {
+    width: 1600px;
+    height: 450px;
+    margin: 0 auto;
+    border-width: 1px;
+    border-color: lightgrey;
+    border-style: solid;
+    
+}
+.footer1_bl1 {
+    width: 660px;
+    height: 450px;
+    float: left;
+}
+.logo_f {    
+  position: relative;
+  left: 227px;
+  top: 80px;
+  width: 59px;
+  height: 51px;
+  z-index: 248;
+  display: flex;
+}
+.brand_f {
+  font-size: 27px;
+  font-family: "Lato";
+  color: rgb(34, 34, 34);
+  text-transform: uppercase;
+  line-height: 1.185;
+  text-align: center;
+  position: relative;
+  left: 22px;
+  top: 42px;
+}
+.footer1_bl1text {
+    width: 427px;
+    height: 180px;
+    position: relative;
+    left: 230px;
+    top: 80px;
+}
+.footer1_bl1text p {
+    font-family: Lato;
+    color:  #898989;
+    font-size: 14px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 300;
+    line-height: 24px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+}
+.footer1_bl2 {
+    width: 180px;
+    height: 450px;
+    display: inline-block;
+    position: relative;
+    left: 70px;
+    top: 85px;
+    float: left;
+}
+.footer1_bl2 h1 {
+    font-family: Lato;
+    color:  #f16d7f;
+    font-size: 18px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 30px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+    text-transform: uppercase;
+}
+.menu_f2 {
+    height: 180px;
+    width: 100px;
+    position: relative;
+    top: 15px;
+    
+    /*justify-content: space-around;*/
+}
+.menu_f2 a {
+    color:  #898989;
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 45px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+    text-decoration:none; 
+    
+}
+.footer1_bl3 {
+    width: 180px;
+    height: 450px;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: 85px;
+    float: left;
+}
+.footer1_bl3 h1 {
+    font-family: Lato;
+    color:  #f16d7f;
+    font-size: 18px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 30px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+    text-transform: uppercase;
+}
+.menu_f3 {
+    height: 180px;
+    width: 150px;
+    position: relative;
+    top: 15px;
+    
+    /*justify-content: space-around;*/
+}
+.menu_f3 a {
+    color:  #898989;
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 45px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+    text-decoration:none; 
+    
+}
+.footer1_bl4 {
+    width: 180px;
+    height: 450px;
+    display: inline-block;
+    position: relative;
+    left: 130px;
+    top: 85px;
+    float: left;
+    }
+.footer1_bl4 h1 {
+    font-family: Lato;
+    color:  #f16d7f;
+    font-size: 18px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    line-height: 30px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+    text-transform: uppercase;
+}
+.menu_f4 {
+    height: 180px;
+    width: 150px;
+    position: relative;
+    top: 15px;
+    
+    /*justify-content: space-around;*/
+}
+.menu_f4 a {
+    color:  #898989;
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    line-height: 45px;/* Приближение из-за подстановки шрифтов */
+    text-align: left;
+    text-decoration:none; 
+    
+}
+
+.footer1_bl2 a:hover, .footer1_bl3 a:hover, .footer1_bl4 a:hover {
+     color: aliceblue;
+    
+}
+.footer1_bl2 li:hover, .footer1_bl3 li:hover, .footer1_bl4 li:hover {
+    background-color: #f16d7f;
+    
+}
+
+.footer2 {
+    width: 1600px;
+    height: 80px;
+    background-color:  #e6e6e6;
+}
+.picture_reserved {
+    width: 260px;
+    height: 15px;
+    position: relative;
+    top: 40px;
+    left: 228px;
+}
+.picture_5, .picture_4, .picture_3, .picture_2, .picture_1 {
+    width: 32px;
+    height: 32px;
+    float: right;
+    position: relative;
+    top: 15px;
+    right: 230px;
+    margin-right: 10px;
+    background-color: #ffffff;
+    transition: .6s ease-in-out;
+}
+.picture_5:hover, .picture_4:hover, .picture_3:hover, .picture_2:hover, .picture_1:hover {
+    background-color: #f16d7f;
+}
+.picture_2 {
+    background-color: darkgray;
+}
+    

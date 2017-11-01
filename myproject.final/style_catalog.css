@@ -1,0 +1,125 @@
+.item {
+    width: 23%;
+    margin: 10px 10px;
+    float: left;
+   }
+
+.item_foto1 {
+   width: 261px;
+    height: 280px;
+   background: url(img/item_foto1.jpg);
+}
+.item_foto2 {
+   width: 261px;
+    height: 280px;
+   background: url(img/item_foto2.jpg);
+}
+.item_foto3 {
+   width: 261px;
+    height: 280px;
+   background: url(img/item_foto3.jpg);
+}
+.item_foto4 {
+   width: 261px;
+    height: 280px;
+   background: url(img/item_foto4.jpg);
+}
+.item_foto5 {
+   width: 261px;
+    height: 280px;
+   background: url(img/item_foto5.jpg);
+}
+.item_foto6 {
+   width: 261px;
+    height: 280px;
+   background: url(img/item_foto6.jpg);
+}
+.item_foto7 {
+   width: 261px;
+    height: 280px;
+   background: url(img/item_foto7.jpg);
+}
+.item_foto8 {
+   width: 261px;
+    height: 280px;
+   background: url(img/item_foto8.jpg);
+}
+
+.item1 {
+ width: 261px;
+    height: 280px;   
+}
+.item1:hover {
+    margin: 0 auto;
+    transition: opacity 1s;
+    background: url(img/Hover.jpg);
+    opacity: 0.7;
+ }
+
+.item_text h1 {
+    font-family: Lato;
+    color:  #222222;
+    font-size: 13px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 400;
+    text-align: left;
+    text-transform: uppercase;
+    }
+.item_text p {
+    font-family: Lato;
+    color:  #f16d7f;
+    font-size: 16px;/* Приближение из-за подстановки шрифтов */
+    font-weight: 700;
+    text-align: left;
+}
+
+ /*стили для каталога*/
+    
+.pagination a{
+padding:0px 5px 0px 5px;
+margin-right:5px;
+border: #808080 solid 1px;
+background: white;
+text-decoration:none;
+}
+.pagination a:hover{
+background: gray;
+}
+
+.pagination .activ {
+
+background: gray;
+}
+    
+.browse_all_prod_button {
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    width: 212px;
+    height: 48px;
+    margin-top: 40px;
+    margin-left: 450px;
+    font-family: Lato;
+    color:  #222222;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+    background-color: #e8e8e8; 
+    transition: .6s ease-in-out;
+     	    
+	}
+	
+	.browse_all_prod_button:hover {
+	    background-color: #f16d7f;
+        color:  #ffffff;
+}
+
+
+
+.item_fotox {
+   width: 261px;
+    height: 280px;
+    
+
+   
